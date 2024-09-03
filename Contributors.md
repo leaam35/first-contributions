@@ -12,6 +12,7 @@
 - [Stavros Gkounis](https://github.com/lArch1t3ct) **Learning about contributing to open-source projects!**
 - [Mya Gwinn](https://github.com/MyaGwinn) **Hello lads!**
 - [Xiao Liu](https://github.com/XiaoLiu8811) **Hello github**
+- leah
 - [Ruhi Tyagi](https://github.com/ruhi47) **Hey!, here to build a course on open-source. Interested? Hit me up on Linkedin!**
 - [Faaz Sherwani]--YOLO peeps--
 - [Marcus Quibol]
